@@ -1,0 +1,3 @@
+npm intall
+npm install -g yarn
+npm run serve
